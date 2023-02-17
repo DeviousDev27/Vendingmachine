@@ -1,0 +1,151 @@
+09/28/21 23:13:44 : Start Process: Vendo-Matic 800
+09/28/21 23:13:44 : Start Process: Vendo-Matic 800
+09/28/21 23:13:44 : Start Process: Vendo-Matic 800
+09/28/21 23:14:29 : Start Process: Vendo-Matic 800
+09/28/21 23:14:32 : Start Process: Vendo-Matic 800
+09/28/21 23:14:32 : Start Process: Vendo-Matic 800
+09/28/21 23:15:21 : Start Process: Vendo-Matic 800
+09/28/21 23:15:21 : Start Process: Vendo-Matic 800
+09/28/21 23:15:21 : Start Process: Vendo-Matic 800
+09/28/21 23:15:26 : Start Process: Vendo-Matic 800
+09/28/21 23:15:30 : Start Process: Vendo-Matic 800
+09/28/21 23:15:34 : Start Process: Vendo-Matic 800
+09/28/21 23:15:37 : Start Process: Vendo-Matic 800
+09/28/21 23:15:39 : Start Process: Vendo-Matic 800
+09/28/21 23:15:41 : Start Process: Vendo-Matic 800
+09/28/21 23:15:54 : Start Process: Vendo-Matic 800
+09/28/21 23:16:32 : Start Process: Vendo-Matic 800
+09/28/21 23:16:42 : Start Process: Vendo-Matic 800
+09/28/21 23:19:20 : Start Process: Vendo-Matic 800
+09/28/21 23:19:20 : Start Process: Vendo-Matic 800
+09/28/21 23:19:20 : Start Process: Vendo-Matic 800
+09/28/21 23:20:01 : Start Process: Vendo-Matic 800
+09/28/21 23:20:03 : Start Process: Vendo-Matic 800
+09/28/21 23:20:03 : Start Process: Vendo-Matic 800
+09/28/21 23:22:39 : *****************************************************
+09/28/21 23:22:39 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:22:39 : *****************************************************
+09/28/21 23:32:41 : *****************************************************
+09/28/21 23:32:41 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:32:41 : *****************************************************
+09/28/21 23:33:39 : Change given: $0.0
+09/28/21 23:33:52 : $100.0  $100.0
+09/28/21 23:33:56 : A1|Potato Crisps|Current Balance: $100.0|New Balance: $96.95
+09/28/21 23:34:00 : A1|Potato Crisps|Current Balance: $96.95|New Balance: $93.89999694824219
+09/28/21 23:34:02 : A1|Potato Crisps|Current Balance: $93.899994|New Balance: $90.84999389648438
+09/28/21 23:34:04 : A1|Potato Crisps|Current Balance: $90.84999|New Balance: $87.79999084472657
+09/28/21 23:34:06 : A1|Potato Crisps|Current Balance: $87.79999|New Balance: $84.74998779296875
+09/28/21 23:34:18 : Change given: $84.749985
+09/28/21 23:34:20 : Exiting program.
+09/28/21 23:34:20 : Process ended normally.
+09/28/21 23:35:21 : *****************************************************
+09/28/21 23:35:21 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:35:21 : *****************************************************
+09/28/21 23:35:52 : $5.0  $5.0
+09/28/21 23:35:56 : A1|Potato Crisps|Current Balance: $5.0|New Balance: $1.9500000000000002
+09/28/21 23:36:10 : D1|U-Chews|Current Balance: $1.95|New Balance: $1.1000000476837157
+09/28/21 23:36:15 : D1|U-Chews|Current Balance: $1.1|New Balance: $0.25000002384185793
+09/28/21 23:36:21 : Change given: $0.25000003
+09/28/21 23:36:22 : Exiting program.
+09/28/21 23:36:22 : Process ended normally.
+09/28/21 23:37:53 : *****************************************************
+09/28/21 23:37:53 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:37:53 : *****************************************************
+09/28/21 23:38:22 : $100.0  $100.0
+09/28/21 23:38:25 : A1|Potato Crisps|Current Balance: $100.0|New Balance: $96.95
+09/28/21 23:39:35 : Change given: $96.95
+09/28/21 23:40:45 : Change given: $0.0
+09/28/21 23:41:02 : Exiting program.
+09/28/21 23:41:03 : Process ended normally.
+09/28/21 23:41:14 : *****************************************************
+09/28/21 23:41:14 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:41:14 : *****************************************************
+09/28/21 23:44:06 : *****************************************************
+09/28/21 23:44:06 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:44:06 : *****************************************************
+09/28/21 23:45:06 : *****************************************************
+09/28/21 23:45:06 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:45:06 : *****************************************************
+09/28/21 23:48:59 : *****************************************************
+09/28/21 23:48:59 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:48:59 : *****************************************************
+09/28/21 23:51:08 : *****************************************************
+09/28/21 23:51:08 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:51:08 : *****************************************************
+09/28/21 23:51:48 : Change given: $0.0
+09/28/21 23:51:49 : Exiting program.
+09/28/21 23:51:49 : Process ended normally.
+09/28/21 23:55:57 : *****************************************************
+09/28/21 23:55:57 : ******** New Launch Event: VendingMachineCLI ********
+09/28/21 23:55:57 : *****************************************************
+09/28/21 23:56:25 : $5.0  $5.0
+09/28/21 23:56:30 : A1|Potato Crisps|Current Balance: $5.0|New Balance: $1.9500000000000002
+09/28/21 23:56:53 : Change given: $1.95
+09/28/21 23:57:15 : $20.0  $20.0
+09/28/21 23:57:18 : A1|Potato Crisps|Current Balance: $20.0|New Balance: $16.95
+09/28/21 23:57:21 : A1|Potato Crisps|Current Balance: $16.95|New Balance: $13.900000762939452
+09/28/21 23:57:23 : A1|Potato Crisps|Current Balance: $13.900001|New Balance: $10.85000057220459
+09/28/21 23:57:24 : A1|Potato Crisps|Current Balance: $10.85|New Balance: $7.800000381469727
+09/28/21 23:57:37 : Change given: $7.8
+09/28/21 23:57:39 : Exiting program.
+09/28/21 23:57:39 : Process ended normally.
+09/29/21 00:00:35 : *****************************************************
+09/29/21 00:00:35 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 00:00:35 : *****************************************************
+09/29/21 00:00:49 : $100.0  $100.0
+09/29/21 00:00:53 : A1|Potato Crisps|Current Balance: $100.0|New Balance: $96.95
+09/29/21 00:00:56 : A1|Potato Crisps|Current Balance: $96.95|New Balance: $93.89999694824219
+09/29/21 00:00:58 : A1|Potato Crisps|Current Balance: $93.899994|New Balance: $90.84999389648438
+09/29/21 00:00:59 : A1|Potato Crisps|Current Balance: $90.84999|New Balance: $87.79999084472657
+09/29/21 00:01:01 : A1|Potato Crisps|Current Balance: $87.79999|New Balance: $84.74998779296875
+09/29/21 00:01:10 : B1|Moonpie|Current Balance: $84.749985|New Balance: $82.94998474121094
+09/29/21 00:01:14 : B1|Moonpie|Current Balance: $82.94998|New Balance: $81.14998168945313
+09/29/21 00:01:16 : B1|Moonpie|Current Balance: $81.14998|New Balance: $79.34997863769532
+09/29/21 00:01:20 : B1|Moonpie|Current Balance: $79.349976|New Balance: $77.5499755859375
+09/29/21 00:01:22 : B1|Moonpie|Current Balance: $77.54997|New Balance: $75.74997253417969
+09/29/21 00:01:32 : C1|Cola|Current Balance: $75.74997|New Balance: $74.49996948242188
+09/29/21 00:01:35 : C1|Cola|Current Balance: $74.49997|New Balance: $73.24996948242188
+09/29/21 00:01:37 : C1|Cola|Current Balance: $73.24997|New Balance: $71.99996948242188
+09/29/21 00:01:39 : C1|Cola|Current Balance: $71.99997|New Balance: $70.74996948242188
+09/29/21 00:01:41 : C1|Cola|Current Balance: $70.74997|New Balance: $69.49996948242188
+09/29/21 00:01:56 : D1|U-Chews|Current Balance: $69.49997|New Balance: $68.64996948242188
+09/29/21 00:01:59 : D1|U-Chews|Current Balance: $68.64997|New Balance: $67.79997100830079
+09/29/21 00:02:00 : D1|U-Chews|Current Balance: $67.79997|New Balance: $66.9499725341797
+09/29/21 00:02:02 : D1|U-Chews|Current Balance: $66.949974|New Balance: $66.0999740600586
+09/29/21 00:02:04 : D1|U-Chews|Current Balance: $66.099976|New Balance: $65.2499755859375
+09/29/21 00:02:15 : Change given: $65.24998
+09/29/21 00:02:55 : Exiting program.
+09/29/21 00:02:55 : Process ended normally.
+09/29/21 00:53:30 : *****************************************************
+09/29/21 00:53:30 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 00:53:30 : *****************************************************
+09/29/21 00:55:42 : *****************************************************
+09/29/21 00:55:42 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 00:55:42 : *****************************************************
+09/29/21 01:02:40 : *****************************************************
+09/29/21 01:02:40 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 01:02:40 : *****************************************************
+09/29/21 03:10:19 : *****************************************************
+09/29/21 03:10:19 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 03:10:19 : *****************************************************
+09/29/21 03:10:30 : $100.0  $100.0
+09/29/21 03:10:33 : A1|Potato Crisps|Current Balance: $100.0|New Balance: $96.95
+09/29/21 03:10:37 : Change given: $96.95
+09/29/21 03:10:38 : Exiting program.
+09/29/21 03:10:38 : Process ended normally.
+09/29/21 03:10:47 : *****************************************************
+09/29/21 03:10:47 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 03:10:47 : *****************************************************
+09/29/21 03:15:00 : *****************************************************
+09/29/21 03:15:00 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 03:15:00 : *****************************************************
+09/29/21 03:15:14 : $100.0  $100.0
+09/29/21 03:15:25 : A1|Potato Crisps|Current Balance: $100.0|New Balance: $96.95
+09/29/21 03:15:28 : A1|Potato Crisps|Current Balance: $96.95|New Balance: $93.89999694824219
+09/29/21 03:15:30 : A1|Potato Crisps|Current Balance: $93.899994|New Balance: $90.84999389648438
+09/29/21 03:15:32 : A1|Potato Crisps|Current Balance: $90.84999|New Balance: $87.79999084472657
+09/29/21 03:15:33 : A1|Potato Crisps|Current Balance: $87.79999|New Balance: $84.74998779296875
+09/29/21 03:15:40 : Change given: $84.749985
+09/29/21 10:02:25 : *****************************************************
+09/29/21 10:02:25 : ******** New Launch Event: VendingMachineCLI ********
+09/29/21 10:02:25 : *****************************************************

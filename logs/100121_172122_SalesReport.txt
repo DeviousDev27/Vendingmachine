@@ -1,0 +1,12 @@
+
+=========================
+  THE UMBRELLA ACADEMY
+      SALES REPORT
+-------------------------
+Potato Crisps|3.05|1|3.05
+Potato Crisps|3.05|2|6.1
+Potato Crisps|3.05|3|9.149999999999999
+Potato Crisps|3.05|4|12.2
+Potato Crisps|3.05|5|15.25
+Potato Crisps|3.05|5|15.25
+Mountain Melter|1.5|1|16.75

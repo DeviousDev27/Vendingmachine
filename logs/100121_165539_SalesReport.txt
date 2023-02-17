@@ -1,0 +1,8 @@
+
+=========================
+[34;1mTHE UMBRELLA ACADEMY![0m
+[1m     SALES REPORT[0m
+-------------------------
+Potato Crisps| Price: 3.05| Purchased: 1| Total: 3.05
+Potato Crisps| Price: 3.05| Purchased: 2| Total: 6.1
+Potato Crisps| Price: 3.05| Purchased: 3| Total: 9.149999999999999

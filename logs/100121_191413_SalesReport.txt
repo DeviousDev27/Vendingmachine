@@ -1,0 +1,16 @@
+Potato Crisps|3.05|0|0.0
+Potato Crisps|3.05|1|3.05
+Potato Crisps|3.05|2|6.1
+Potato Crisps|3.05|3|9.149999999999999
+Potato Crisps|3.05|4|12.2
+Potato Crisps|3.05|5|15.25
+Potato Crisps|3.05|5|15.25
+Moonpie|1.8|1|17.05
+Heavy|1.5|1|18.55
+Triplemint|0.75|1|19.3
+Mountain Melter|1.5|1|20.8
+Mountain Melter|1.5|2|22.3
+Mountain Melter|1.5|3|23.8
+Mountain Melter|1.5|4|25.3
+Mountain Melter|1.5|5|26.8
+Mountain Melter|1.5|5|26.8
